@@ -1,16 +1,16 @@
-# Hey, I'm Nandan 👋
+# Hey, I'm Nagaraj 
 
 MCA Student | Python Developer | Cybersecurity Enthusiast
 
 Learning, building and exploring technology.
 
-## 🙋‍♂️ About Me
+##  About Me
 
-- 🎓 Pursuing Master of Computer Applications (MCA).
-- 💻 Interested in Python and Web Development.
-- 🔐 Exploring Cybersecurity and Ethical Hacking.
-- 🐧 Learning Linux and Computer Networking.
-- 🚀 Building projects and improving my skills.
+-  Pursuing Master of Computer Applications (MCA).
+-  Interested in Python and Web Development.
+-  Exploring Cybersecurity and Ethical Hacking.
+-  Learning Linux and Computer Networking.
+-  Building projects and improving my skills.
 
 ## 🛠️ Tech Stack
 
@@ -20,13 +20,13 @@ Learning, building and exploring technology.
 
 **Tools:** Git, GitHub, Linux, VS Code
 
-## 🎯 Currently Learning
+##  Currently Learning
 
 - Cybersecurity
 - Ethical Hacking
 - Network Security
 - Python Development
 
-## 🤝 Connect With Me
+##  Connect With Me
 
 Always open to learning and collaborating.
